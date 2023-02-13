@@ -1,0 +1,10 @@
+Wed Nov  2 17:06:35 2022
+ cd aula06
+Wed Nov  2 17:06:28 2022
+ cd -
+Wed Nov  2 17:06:25 2022
+ ls
+Wed Nov  2 17:06:13 2022
+ ./sortNumbers_fgets numbers.txt
+Wed Nov  2 17:07:31 2022
+ echo "top"
